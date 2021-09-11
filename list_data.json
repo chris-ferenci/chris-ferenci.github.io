@@ -2,32 +2,32 @@
 	"californiaDestinations": [{
 		"Title": "Monterey Bay",
 		"Region": "Northern California",
-		"Location": "BEA Workshop",
-		"Description": "2021"
+		"Location": "36.61422235937552, -121.90169739093497",
+		"Description": "Californian-American author John Steinbeck wrote tirelessly about the beauty of this place. It’s a beautiful sea town with a rich history of the fishing industry. Cannery row used to be a place where a lot of canning took place, like canning tuna. It’s now a nice boulevard of restaurants, shops, and the amazing Monterey Bay Aquarium."
 	},
 	{
 		"Title": "Big Sur",
 		"Region": "Northern California",
-		"Location": "BEA Workshop",
-		"Description": "2021"
+		"Location": "36.27155770138625, -121.80800577321753",
+		"Description": "Big Sur is awesome just because. If you’re driving down the Pacific Coast Highway from Monterey, you’ll have to drive through this anyway. As you’re driving, just pick any spot of the side of the road to take in the views. It’s amazing."
 	},
 	{
 		"Title": "Morro Bay",
 		"Region": "Central Coast",
-		"Location": "BEA Workshop",
-		"Description": "2021"
+		"Location": "35.36549127587537, -120.85050014572629",
+		"Description": "Probably only worth visiting for a couple hours or just driving through. It has a unique Central Coast vibe that is very different from NorCal or SoCal. Very quaint and relaxed. Known for Morro Rock, a giant rock right on the coast, you certainly can’t miss it."
 	},
 	{
 		"Title": "Santa Barbara",
 		"Region": "Southern California",
-		"Location": "BEA Workshop",
-		"Description": "2021"
+		"Location": "34.41545779371369, -119.69369246831732",
+		"Description": "If you just want to chill on the beach, Santa Barbara is amazing for it. Less crowded than LA, and easy to access the beaches. For Restaurants, Shopping, and the like, go to State Street. It’s super fun. Stick to Lower State street if you want to stick close to the beach. Parking can be tricky, so keep an eye out and be prepared to walk!"
 	},
 	{
 		"Title": "Los Angeles",
 		"Region": "Southern California",
-		"Location": "BEA Workshop",
-		"Description": "2021"
+		"Location": "34.053072019792445, -118.26522208113032",
+		"Description": "Los Angeles, the land of endless beaches, Hollywood, and beautiful mountain ranges. Los Angeles has something for everyone."
 	}]
 	
 }
